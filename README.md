@@ -14,12 +14,23 @@ As a whole, we find there is much room for improvement.
 We propose a number of directions for future research.
 
 
-## Benchmark
+## Benchmark: **FixBench** [[Homepage](https://github.com/Example-based-Program-Transformation/FixBench)]
 
-* FixBench [[Homepage](https://github.com/Example-based-Program-Transformation/FixBench)]
+An Example Code Change for Fixing Null Pointer Dereference in **FixBench** [[Original GitHub](https://github.com/orientechnologies/orientdb/commit/529e81f4211096e6468a51d8bbd8968b60156762)]
+
+```diff
+diff --git a/core/src/main/java/com/orientechnologies/orient/core/db/document/ODatabaseDocumentTx.java b/core/src/main/java/com/orientechnologies/orient/core/db/document/ODatabaseDocumentTx.java
+index c9ff80d..8b733ad 100755
+--- a/core/src/main/java/com/orientechnologies/orient/core/db/document/ODatabaseDocumentTx.java
++++ b/core/src/main/java/com/orientechnologies/orient/core/db/document/ODatabaseDocumentTx.java
+@@ -251 +251 @@ public class ODatabaseDocumentTx extends OListenerManger<ODatabaseListener> impl
+-        if (!name.equals(iUserName)) {
++        if (name== null || !name.equals(iUserName)) {
+```
 
 
-## Technique
+
+## Selected Techniques
 
 ### Single Example-based Technique
 
