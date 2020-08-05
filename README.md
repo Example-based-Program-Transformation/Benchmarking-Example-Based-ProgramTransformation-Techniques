@@ -35,13 +35,13 @@ index c9ff80d..8b733ad 100755
 
 ![Single Example-based](figs/single.jpg)
 
-* Sydit [[Code](https://github.com/Example-based-Program-Transformation/Sydit)] [[Virtual Machine]()]
-* Genpat [[Code](https://github.com/Example-based-Program-Transformation/Genpat)] [[Virtual Machine]()]
+* Sydit [[Code](https://github.com/Example-based-Program-Transformation/Sydit)] [[Virtual Machine](https://smu-my.sharepoint.com/:u:/r/personal/bowenxu_2017_phdcs_smu_edu_sg/Documents/Research/Example-based%20Program%20Transformation/VMs/Sydit.ova?csf=1&web=1&e=ROmfaQ)]
+* Genpat [[Code](https://github.com/Example-based-Program-Transformation/Genpat)] [[Virtual Machine](https://smu-my.sharepoint.com/:u:/r/personal/bowenxu_2017_phdcs_smu_edu_sg/Documents/Research/Example-based%20Program%20Transformation/VMs/Genpat.ova?csf=1&web=1&e=aLnLjZ)]
 
 
 ### Multiple Example-based Technique
 
 ![Multiple Example-based](figs/multiple.jpg)
 
-* Lase [[Code](https://github.com/Example-based-Program-Transformation/Lase)] [[Virtual Machine]()]
+* Lase [[Code](https://github.com/Example-based-Program-Transformation/Lase)] [[Virtual Machine](https://smu-my.sharepoint.com/:u:/g/personal/bowenxu_2017_phdcs_smu_edu_sg/EdunKjnBnzhApj0H-UdTG2EBqOq5PvHMxmy54ryoGuBtJg?e=3FiDTe)]
 * Genesis [[Code](https://github.com/Example-based-Program-Transformation/Genesis)] [[Virtual Machine]()]
