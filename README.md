@@ -33,11 +33,15 @@ index c9ff80d..8b733ad 100755
 
 ### Single Example-based Technique
 
+![Single Example-based](figs/single.pdf)
+
 * Sydit [[Code](https://github.com/Example-based-Program-Transformation/Sydit)] [[Virtual Machine]()]
 * Genpat [[Code](https://github.com/Example-based-Program-Transformation/Genpat)] [[Virtual Machine]()]
 
 
 ### Multiple Example-based Technique
+
+![Multiple Example-based](figs/multiple.pdf)
 
 * Lase [[Code](https://github.com/Example-based-Program-Transformation/Lase)] [[Virtual Machine]()]
 * Genesis [[Code](https://github.com/Example-based-Program-Transformation/Genesis)] [[Virtual Machine]()]
